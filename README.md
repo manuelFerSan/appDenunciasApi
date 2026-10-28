@@ -1,15 +1,25 @@
-# appDenunciasApi
+# 📋 appDenunciasApi
 
-API REST para la gestión de denuncias.
+> API REST para la gestión de denuncias.
 
-## Tecnologías
+## ⚙️ Tecnologías
 
-- Java 21
-- Spring Boot 3.4.5
-- Spring Data JPA
-- PostgreSQL / H2 (en memoria por defecto)
-- Maven (Gradle)
+| Tecnología | Detalle |
+|---|---|
+| ☕ Java | 21 |
+| 🍃 Spring Boot | 3.4.5 |
+| 🗄️ Spring Data JPA | ORM / persistencia |
+| 🐘 PostgreSQL | Producción |
+| 💾 H2 | Memoria (local por defecto) |
 
-## Autor
+## 🚀 Ejecutar
+
+```bash
+./gradlew bootRun
+```
+
+Servidor en `http://localhost:8080`
+
+## 👤 Autor
 
 **Manuel Fernandez Sandoval**
