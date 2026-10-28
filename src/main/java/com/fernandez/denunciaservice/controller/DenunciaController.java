@@ -1,7 +1,7 @@
-package com.tuApellido.denunciaservice.controller;
+package com.fernandez.denunciaservice.controller;
 
-import com.tuApellido.denunciaservice.entity.Denuncia;
-import com.tuApellido.denunciaservice.service.DenunciaService;
+import com.fernandez.denunciaservice.entity.Denuncia;
+import com.fernandez.denunciaservice.service.DenunciaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

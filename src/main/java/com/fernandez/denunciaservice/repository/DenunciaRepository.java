@@ -1,6 +1,6 @@
-package com.tuApellido.denunciaservice.repository;
+package com.fernandez.denunciaservice.repository;
 
-import com.tuApellido.denunciaservice.entity.Denuncia;
+import com.fernandez.denunciaservice.entity.Denuncia;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

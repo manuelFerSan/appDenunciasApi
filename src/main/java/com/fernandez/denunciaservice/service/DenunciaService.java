@@ -1,7 +1,7 @@
-package com.tuApellido.denunciaservice.service;
+package com.fernandez.denunciaservice.service;
 
-import com.tuApellido.denunciaservice.entity.Denuncia;
-import com.tuApellido.denunciaservice.repository.DenunciaRepository;
+import com.fernandez.denunciaservice.entity.Denuncia;
+import com.fernandez.denunciaservice.repository.DenunciaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;

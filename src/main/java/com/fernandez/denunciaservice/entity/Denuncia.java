@@ -1,4 +1,4 @@
-package com.tuApellido.denunciaservice.entity;
+package com.fernandez.denunciaservice.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
